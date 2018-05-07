@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="142dp"
+    android:background="@drawable/bg_mission_boder"
+    android:orientation="horizontal"
+    android:layout_marginBottom="30dp"
+    android:paddingLeft="44dp"
+    android:paddingRight="23dp">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginRight="53dp"
+        android:src="@drawable/ic_mission_logo" />
+
+    <com.yihai.caotang.widgets.FontTextView
+        android:id="@+id/tv_content"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"
+        android:ellipsize="end"
+        android:maxLines="2"
+        android:text="前往万佛楼了解杜甫生怕故事"
+        android:textColor="#7c5734"
+        android:textSize="31sp" />
+
+    <View
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="16dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="24dp"
+        android:layout_marginTop="16dp"
+        android:background="@color/textColorPrimaryDark" />
+
+    <ImageView
+        android:id="@+id/iv_is_done"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/ic_mission_complete"
+        android:visibility="invisible" />
+</LinearLayout>

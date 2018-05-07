@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_poetry_fill_game"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_common_2"
+    tools:context="com.yihai.caotang.ui.landscape.PoetryFillGameActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/iv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="30dp"
+            android:src="@drawable/selector_btn_back" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="567dp"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="91dp"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="62dp"
+            android:src="@drawable/ic_title_poetry" />
+
+        <com.yihai.caotang.widgets.FontTextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="两个"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/textColorPrimary"
+            android:textSize="35sp" />
+
+        <com.yihai.caotang.widgets.FontTextView
+            android:id="@+id/tv_question"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="34dp"
+            android:text="两个黄鹂鸣翠柳，一行___上青天。\n窗含西岭千秋雪，门泊东吴万里船。"
+            android:textColor="@color/textColorPrimary"
+            android:textSize="35sp" />
+
+        <com.marshalchen.ultimaterecyclerview.UltimateRecyclerView
+            android:id="@+id/ultimate_recycler_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingLeft="40dp"
+            android:paddingRight="40dp" />
+
+    </LinearLayout>
+</RelativeLayout>

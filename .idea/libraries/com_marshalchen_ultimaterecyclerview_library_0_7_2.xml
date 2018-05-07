@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.marshalchen.ultimaterecyclerview:library-0.7.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/b545dda6f0bfda9a84f59a3a632389c00efae1dc/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/b545dda6f0bfda9a84f59a3a632389c00efae1dc/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.marshalchen.ultimaterecyclerview/library/0.7.2/940197964a86078951e61d6d4d03faba8fb3436d/library-0.7.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="455dp"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:id="@+id/container_func"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="7dp"
+        android:background="@drawable/bg_control_bar"
+        android:paddingRight="90dp">
+
+        <LinearLayout
+            android:id="@+id/layout_menu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:orientation="horizontal"
+            android:paddingBottom="5dp"
+            android:paddingLeft="36dp"
+            android:paddingTop="5dp">
+
+            <ImageView
+                android:id="@+id/iv_collection"
+                android:layout_width="44dp"
+                android:layout_height="54dp"
+                android:layout_marginRight="40dp"
+                android:background="@drawable/selector_btn_collection" />
+
+            <ImageView
+                android:id="@+id/iv_config"
+                android:layout_width="44dp"
+                android:layout_height="54dp"
+                android:layout_marginRight="40dp"
+                android:background="@drawable/selector_btn_config" />
+
+
+            <ImageView
+                android:id="@+id/iv_repository"
+                android:layout_width="44dp"
+                android:layout_height="54dp"
+                android:layout_marginRight="40dp"
+                android:background="@drawable/selector_btn_repository" />
+
+
+            <ImageView
+                android:id="@+id/iv_task"
+                android:layout_width="44dp"
+                android:layout_height="54dp"
+                android:background="@drawable/selector_btn_task" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/iv_toggle_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/ic_menu_toggle" />
+</RelativeLayout>

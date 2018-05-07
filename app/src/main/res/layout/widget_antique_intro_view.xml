@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_outlineborder"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/tv_title"
+        android:layout_marginBottom="30dp"
+        android:layout_marginTop="30dp"
+        android:fadeScrollbars="false"
+        android:fadingEdgeLength="0dp"
+        android:overScrollMode="always"
+        android:padding="4dp"
+        android:scrollbarAlwaysDrawVerticalTrack="true"
+        android:scrollbarStyle="insideInset"
+        android:scrollbarThumbVertical="@drawable/scroll_bar_pressed"
+        android:scrollbarTrackVertical="@drawable/scroll_bar_normal"
+        android:scrollbars="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingBottom="18dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:paddingTop="18dp">
+
+            <ImageView
+                android:id="@+id/iv_banner"
+                android:layout_width="169dp"
+                android:layout_height="125dp"
+                android:layout_gravity="center_horizontal"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY" />
+
+            <com.yihai.caotang.widgets.FontTextView
+                android:id="@+id/tv_poetry"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/iv_banner"
+                android:layout_marginTop="29dp"
+                android:gravity="center_horizontal"
+                android:lineSpacingExtra="16dp"
+                android:text="\ndfd\ndsfjl"
+                android:textColor="@color/textColorLight"
+                android:textSize="24sp" />
+
+            <com.yihai.caotang.widgets.TextViewEx
+                android:id="@+id/tv_content"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@id/tv_poetry"
+                android:layout_marginTop="20dp"
+                android:lineSpacingExtra="16dp"
+                android:textColor="@color/textColorLight"
+                android:textSize="24sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

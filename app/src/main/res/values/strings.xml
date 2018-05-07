@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">杜甫草堂</string>
+    <string name="title_activity_entry_confirm">EntryConfirmActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

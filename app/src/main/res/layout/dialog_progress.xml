@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_dialog"
+    android:orientation="vertical"
+    android:paddingRight="26dp"
+    android:paddingTop="26dp">
+
+    <com.yihai.caotang.widgets.FontTextView
+        android:id="@+id/tv_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="46dp"
+        android:layout_marginRight="46dp"
+        android:layout_marginTop="40dp"
+        android:ellipsize="end"
+        android:maxLines="2"
+        android:text="下载中"
+        android:textAlignment="center"
+        android:textColor="@color/textColorPrimary"
+        android:textSize="23sp" />
+
+    <android.support.v4.widget.Space
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:layout_weight="1" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="54dp"
+        android:layout_marginLeft="46dp"
+        android:layout_marginRight="46dp"
+        android:orientation="horizontal">
+
+        <me.zhouzhuo.zzhorizontalprogressbar.ZzHorizontalProgressBar
+            android:id="@+id/progressbar"
+            android:layout_width="match_parent"
+            android:layout_height="17dp"
+            app:zpb_bg_color="@color/progressBarBackground"
+            app:zpb_max="100"
+            app:zpb_padding="2dp"
+            app:zpb_pb_color="@color/progressBarProgress" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="64dp"
+    android:layout_marginTop="4dp"
+    android:background="@drawable/bg_sound_track"
+    android:orientation="vertical"
+    android:padding="12dp">
+
+    <com.yihai.caotang.widgets.FontTextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="[正面]"
+        android:textColor="@color/textColorPrimary"
+        android:textSize="18sp" />
+
+    <ImageView
+        android:id="@+id/iv_play_pause"
+        android:layout_width="23dp"
+        android:layout_height="23dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@id/tv_title"
+        android:layout_marginRight="10dp"
+        android:src="@drawable/selector_btn_play_pause" />
+
+    <me.zhouzhuo.zzhorizontalprogressbar.ZzHorizontalProgressBar
+        android:id="@+id/progress_position"
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="10dp"
+        app:zpb_bg_color="@color/progressBarBackground"
+        app:zpb_max="100"
+        app:zpb_padding="2dp"
+        app:zpb_pb_color="@color/progressBarProgress" />
+</RelativeLayout>

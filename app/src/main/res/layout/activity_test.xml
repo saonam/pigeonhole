@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true" >
+
+
+    <ImageView
+        android:id="@+id/iv_config"
+        android:layout_width="120dp"
+        android:layout_height="80dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/selector_btn_back" />
+
+    <com.yihai.caotang.widgets.ToggleMenuView
+        android:id="@+id/toggle_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="40dp" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="45dp"
+        android:layout_marginRight="30dp">
+
+        <View
+            android:id="@+id/anchor"
+            android:layout_width="1dp"
+            android:layout_height="1dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="15dp"
+            android:background="#434343" />
+
+        <ImageView
+            android:id="@+id/btn_sound_track"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/ic_menu_sound_track" />
+    </RelativeLayout>
+</RelativeLayout>

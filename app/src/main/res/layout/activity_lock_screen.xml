@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_lock_screen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_common_2"
+    tools:context="com.yihai.caotang.ui.manage.LockScreenActivity">
+
+    <ImageView
+        android:layout_width="800dp"
+        android:layout_height="150dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/ic_painting"
+        android:scaleType="center" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="20dp">
+
+        <com.yihai.caotang.widgets.FontTextView
+            android:id="@+id/tv_sys_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="机器编号："
+            android:visibility="gone" />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="60dp"
+            android:orientation="horizontal">
+
+            <android.support.v4.widget.Space
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="2" />
+
+            <LinearLayout
+                android:layout_width="50dp"
+                android:layout_height="200dp"
+                android:background="@drawable/selector_btn_vertical_up"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp">
+
+                <Button
+                    android:id="@+id/btn_lend"
+                    android:layout_width="45dp"
+                    android:layout_height="110dp"
+                    android:background="@null"
+                    android:text="租\n\n\n借"
+                    android:textColor="@color/textColorPrimaryDark"
+                    android:textSize="16sp" />
+            </LinearLayout>
+            <android.support.v4.widget.Space
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="1" />
+
+            <LinearLayout
+                android:layout_width="50dp"
+                android:layout_height="200dp"
+                android:background="@drawable/selector_btn_vertical_up"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp" >
+
+                <Button
+                    android:id="@+id/btn_return"
+                    android:layout_width="45dp"
+                    android:layout_height="110dp"
+                    android:background="@null"
+                    android:text="归\n\n\n还"
+                    android:textColor="@color/textColorPrimaryDark"
+                    android:textSize="16sp" />
+            </LinearLayout>
+
+            <android.support.v4.widget.Space
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="1" />
+            <LinearLayout
+                android:layout_width="50dp"
+                android:layout_height="200dp"
+                android:background="@drawable/selector_btn_vertical_up"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp" >
+
+                <Button
+                    android:id="@+id/btn_replace"
+                    android:layout_width="45dp"
+                    android:layout_height="110dp"
+                    android:background="@null"
+                    android:text="替\n\n\n换"
+                    android:textColor="@color/textColorPrimaryDark"
+                    android:textSize="16sp" />
+            </LinearLayout>
+
+            <android.support.v4.widget.Space
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="2" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <android.support.v4.widget.Space
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="1" />
+
+            <LinearLayout
+                android:layout_width="50dp"
+                android:layout_height="200dp"
+                android:background="@drawable/selector_btn_vertical_down"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp">
+
+                <Button
+                    android:id="@+id/btn_update"
+                    android:layout_width="45dp"
+                    android:layout_height="110dp"
+                    android:layout_marginTop="75dp"
+                    android:background="@null"
+                    android:text="更\n\n\n新"
+                    android:textColor="@color/textColorPrimaryDark"
+                    android:textSize="16sp" />
+            </LinearLayout>
+
+            <android.support.v4.widget.Space
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="1" />
+
+            <LinearLayout
+                android:layout_width="60dp"
+                android:layout_height="200dp"
+                android:background="@drawable/selector_btn_vertical_down"
+                android:gravity="center_horizontal"
+                android:orientation="horizontal"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp">
+
+                <com.yihai.caotang.widgets.FontButton
+                    android:id="@+id/btn_setting"
+                    android:layout_width="45dp"
+                    android:layout_height="110dp"
+                    android:layout_marginTop="75dp"
+                    android:background="@null"
+                    android:text="系\n统\n设\n置"
+                    android:textColor="@color/textColorPrimaryDark"
+                    android:textSize="16sp" />
+            </LinearLayout>
+
+            <android.support.v4.widget.Space
+                android:layout_width="0dp"
+                android:layout_height="1dp"
+                android:layout_weight="1" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,91 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_common_2"
+    android:orientation="vertical"
+    tools:context="com.yihai.caotang.ui.manage.SplashFormFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/iv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="30dp"
+            android:src="@drawable/selector_btn_back" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="123dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="567dp"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <com.yihai.caotang.widgets.FontTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="管 理 员 帐 号 :"
+                android:textColor="@color/textColorPrimary"
+                android:textSize="32sp" />
+
+            <EditText
+                android:id="@+id/et_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="17dp"
+                android:background="@drawable/bg_editview"
+                android:paddingBottom="10dp"
+                android:paddingLeft="5dp"
+                android:paddingTop="10dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="567dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="38dp"
+            android:orientation="horizontal">
+
+            <com.yihai.caotang.widgets.FontTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="账  号  密  码   :"
+                android:textColor="@color/textColorPrimary"
+                android:textSize="32sp" />
+
+            <EditText
+                android:id="@+id/et_password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="17dp"
+                android:background="@drawable/bg_editview"
+                android:inputType="textPassword"
+                android:paddingBottom="10dp"
+                android:paddingLeft="5dp"
+                android:paddingTop="10dp" />
+        </LinearLayout>
+
+        <com.yihai.caotang.widgets.FontButton
+            android:id="@+id/btn_login"
+            android:layout_width="147dp"
+            android:layout_height="53dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/btn_func_normal"
+            android:text="登      陆"
+            android:textColor="@color/textColorPrimary"
+            android:textSize="26dp" />
+    </LinearLayout>
+
+</LinearLayout>

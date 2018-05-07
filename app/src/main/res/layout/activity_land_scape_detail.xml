@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_common_2"
+    android:orientation="vertical"
+    tools:context="com.yihai.caotang.ui.landscape.LandScapeDetailActivity">
+
+    <com.yihai.caotang.widgets.ToolbarView
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="49dp"
+        android:layout_marginLeft="46dp"
+        android:layout_marginRight="46dp"
+        android:layout_marginTop="48dp"
+        android:background="@drawable/bg_content_scroller"
+        android:orientation="horizontal">
+
+        <com.yihai.caotang.widgets.NoGlowRecyclerView
+            android:id="@+id/listuv"
+            android:layout_width="240dp"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="64dp"
+            android:layout_marginLeft="81dp"
+            android:layout_marginTop="64dp"
+            android:background="@drawable/bg_antique_list"
+            android:cacheColorHint="@android:color/transparent"
+            android:divider="@android:color/transparent"
+            android:paddingBottom="30dp"
+            android:paddingLeft="29dp"
+            android:paddingRight="29dp"
+            android:paddingTop="15dp"
+            app:recyclerviewClipToPadding="true" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="32dp"
+            android:layout_marginRight="32dp"
+            android:layout_marginTop="18dp"
+            android:orientation="vertical">
+
+            <com.yihai.caotang.widgets.FontTextView
+                android:id="@+id/tv_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="16dp"
+                android:background="@drawable/bg_title"
+                android:paddingBottom="8dp"
+                android:paddingLeft="16dp"
+                android:paddingRight="16dp"
+                android:paddingTop="8dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:text="景点-杜甫铜像"
+                android:textAlignment="center"
+                android:textColor="@color/textColorPrimary"
+                android:textSize="26dp" />
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@id/tv_title"
+                android:fadeScrollbars="false"
+                android:fadingEdgeLength="0dp"
+                android:overScrollMode="never"
+                android:padding="4dp"
+                android:requiresFadingEdge="none"
+                android:scrollbarAlwaysDrawVerticalTrack="true"
+                android:scrollbarStyle="insideInset"
+                android:scrollbarThumbVertical="@drawable/scroll_bar_normal"
+                android:scrollbarTrackVertical="@drawable/scroll_bar_pressed"
+                android:scrollbars="vertical">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingLeft="81dp"
+                    android:paddingRight="81dp"
+                    android:paddingTop="30dp">
+
+                    <ImageView
+                        android:id="@+id/iv_banner"
+                        android:layout_width="503dp"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:adjustViewBounds="true"
+                        android:scaleType="fitXY" />
+
+                    <com.yihai.caotang.widgets.FontTextView
+                        android:id="@+id/tv_poetry"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/iv_banner"
+                        android:layout_marginTop="53dp"
+                        android:gravity="center_horizontal"
+                        android:lineSpacingExtra="16dp"
+                        android:text="\nadsfafafasdfdasfadsfadsfasfadfadfadsfdfd\ndsfjl"
+                        android:textColor="@color/textColorLight"
+                        android:textSize="24sp" />
+
+                    <com.yihai.caotang.widgets.TextViewEx
+                        android:id="@+id/tv_content"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_below="@id/tv_poetry"
+                        android:layout_marginTop="20dp"
+                        android:lineSpacingExtra="16dp"
+                        android:textColor="@color/textColorLight"
+                        android:textSize="24sp" />
+                </RelativeLayout>
+            </ScrollView>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/yw/Downloads/归档/zxing-android/build/intermediates/res/merged/release/menu/encode.xml",
+        "source": "/Users/yw/Downloads/归档/zxing-android/src/main/res/menu/encode.xml"
+    },
+    {
+        "merged": "/Users/yw/Downloads/归档/zxing-android/build/intermediates/res/merged/release/menu/capture.xml",
+        "source": "/Users/yw/Downloads/归档/zxing-android/src/main/res/menu/capture.xml"
+    },
+    {
+        "merged": "/Users/yw/Downloads/归档/zxing-android/build/intermediates/res/merged/release/menu/history.xml",
+        "source": "/Users/yw/Downloads/归档/zxing-android/src/main/res/menu/history.xml"
+    }
+]

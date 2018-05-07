@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.yihai.caotang.widgets.LeavingTipView
+            android:id="@+id/leaving_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true">
+
+        <ImageView
+            android:id="@+id/scan_tip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:visibility="gone"
+            android:src="@drawable/tip_scan" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.yihai.caotang.widgets.ConfirmEntryView
+            android:id="@+id/confirm_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/iv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="27dp"
+            android:layout_marginTop="40dp"
+            android:src="@drawable/selector_btn_back" />
+
+        <com.yihai.caotang.widgets.NoGlowRecyclerView
+            android:id="@+id/list_images"
+            android:layout_width="240dp"
+            android:layout_height="520dp"
+            android:layout_marginLeft="27dp"
+            android:layout_marginTop="100dp"
+            android:background="@drawable/bg_antique_list"
+            android:cacheColorHint="@android:color/transparent"
+            android:divider="@android:color/transparent"
+            android:paddingBottom="30dp"
+            android:paddingLeft="29dp"
+            android:paddingRight="29dp"
+            android:paddingTop="15dp"
+            android:visibility="gone"
+            app:recyclerviewClipToPadding="true" />
+
+        <com.yihai.caotang.widgets.AntiqueIntroView
+            android:id="@+id/antique_intro"
+            android:layout_width="457dp"
+            android:layout_height="433dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="52dp"
+            android:layout_marginTop="236dp"
+            android:visibility="gone" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="33dp">
+
+            <com.yihai.caotang.widgets.ToggleMenuView
+                android:id="@+id/toggle_menu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true" />
+
+            <com.yihai.caotang.widgets.SoundTrackMenuView
+                android:id="@+id/soundtrack_menu"
+                android:layout_width="283dp"
+                android:layout_height="326dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="26.5dp" />
+        </RelativeLayout>
+    </RelativeLayout>
+</RelativeLayout>

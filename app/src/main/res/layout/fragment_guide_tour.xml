@@ -1,0 +1,114 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_common_2"
+    android:orientation="vertical"
+    tools:context="com.yihai.caotang.ui.guide.GuideTourFragment">
+
+    <com.yihai.caotang.widgets.FontTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="48dp"
+        android:text="选择游览时间为您推荐游览景点哦！"
+        android:textAlignment="center"
+        android:textColor="@color/textColorPrimary"
+        android:textSize="34sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:orientation="horizontal">
+
+        <android.support.v4.widget.Space
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <com.yihai.caotang.widgets.FontButton
+            android:id="@+id/tour_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/selector_btn_tour"
+            android:paddingBottom="16dp"
+            android:paddingLeft="32dp"
+            android:paddingRight="32dp"
+            android:paddingTop="16dp"
+            android:text="一小时内"
+            android:textColor="@color/textColorPrimary"
+            android:textSize="24sp" />
+
+        <android.support.v4.widget.Space
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <com.yihai.caotang.widgets.FontButton
+            android:id="@+id/tour_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/selector_btn_tour"
+            android:paddingBottom="16dp"
+            android:paddingLeft="32dp"
+            android:paddingRight="32dp"
+            android:paddingTop="16dp"
+            android:text="一个半小时内"
+            android:textColor="@color/textColorPrimary"
+            android:textSize="24sp" />
+
+        <android.support.v4.widget.Space
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <com.yihai.caotang.widgets.FontButton
+            android:id="@+id/tour_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/selector_btn_tour"
+            android:paddingBottom="16dp"
+            android:paddingLeft="32dp"
+            android:paddingRight="32dp"
+            android:paddingTop="16dp"
+            android:text="两小时内"
+            android:textColor="@color/textColorPrimary"
+            android:textSize="24sp" />
+
+        <android.support.v4.widget.Space
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/iv_tour"
+        android:layout_width="500dp"
+        android:layout_height="340dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <com.yihai.caotang.widgets.FontButton
+            android:id="@+id/btn_confirm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_func_entry"
+            android:paddingBottom="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:paddingTop="8dp"
+            android:text="确定选择"
+            android:textColor="@color/textColorPrimary"
+            android:textSize="32sp" />
+    </LinearLayout>
+</LinearLayout>

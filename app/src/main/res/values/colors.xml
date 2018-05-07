@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#efebd7</color>
+    <color name="colorPrimaryDark">#d9bd8c</color>
+    <color name="colorAccent">#a47f3e</color>
+
+    <color name="textColorLight">#fffbe6</color>
+    <color name="textColorContent">#ffda81</color>
+    <color name="textColorPrimary">#5d3b00</color>
+    <color name="textColorPrimaryDark">#663900</color>
+    <color name="coinBackground">#75464646</color>
+    <color name="progressBarBackground">#b18842</color>
+    <color name="progressBarProgress">#ffc978</color>
+
+</resources>
