@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Users/yw/Downloads/归档/zxing-android/build/intermediates/res/merged/release/raw/beep.ogg",
-        "source": "/Users/yw/Downloads/归档/zxing-android/src/main/res/raw/beep.ogg"
+        "merged": "D:\\yw\\workspace\\git\\pigeonhole\\zxing-android\\build\\intermediates\\res\\merged\\release\\raw\\beep.ogg",
+        "source": "D:\\yw\\workspace\\git\\pigeonhole\\zxing-android\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "D:\\Users\\yw\\Downloads\\归档\\zxing-android\\build\\intermediates\\res\\merged\\release\\raw\\beep.ogg",
+        "source": "D:\\Users\\yw\\Downloads\\归档\\zxing-android\\src\\main\\res\\raw\\beep.ogg"
     }
 ]

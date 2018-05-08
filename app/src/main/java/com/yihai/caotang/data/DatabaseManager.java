@@ -52,7 +52,10 @@ public class DatabaseManager extends SQLiteOpenHelper {
         SQLiteDatabase checkDB = null;
         try {
             String myPath = DB_PATH + DB_NAME;
-            loadDateBase();
+            File file = AppContext.getInstance().getDatabasePath(myPath);
+            if (!file.exists()) {
+                loadDateBase();
+            }
             checkDB = SQLiteDatabase.openDatabase(myPath, null, SQLiteDatabase.OPEN_READONLY);
         } catch (SQLiteException e) {
             return false;
@@ -67,8 +70,8 @@ public class DatabaseManager extends SQLiteOpenHelper {
         String myPath = DB_PATH + DB_NAME;
         try {
             myDataBase = SQLiteDatabase.openDatabase(myPath, null, SQLiteDatabase.OPEN_READONLY);
-        }catch (Exception e){
-            return ;
+        } catch (Exception e) {
+            return;
         }
     }
 
@@ -98,8 +101,10 @@ public class DatabaseManager extends SQLiteOpenHelper {
         try {
             InputStream inputStream = assetManager.open(DB_NAME);
             File filestr = new File(DB_PATH);
-            File file = new File(filestr.getAbsolutePath(), DB_NAME);
+            filestr.mkdir();
+            File file = new File(filestr.getPath(), DB_NAME);
             file.createNewFile();
+
             FileOutputStream fileOutputStream = new FileOutputStream(file);
             byte[] bytes = new byte[1024];
             int b = 0;

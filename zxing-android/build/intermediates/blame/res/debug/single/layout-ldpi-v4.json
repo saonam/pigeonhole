@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Users/yw/Downloads/归档/zxing-android/build/intermediates/res/merged/debug/layout-ldpi-v4/capture.xml",
-        "source": "/Users/yw/Downloads/归档/zxing-android/src/main/res/layout-ldpi/capture.xml"
+        "merged": "D:\\Users\\yw\\Downloads\\归档\\zxing-android\\build\\intermediates\\res\\merged\\debug\\layout-ldpi-v4\\capture.xml",
+        "source": "D:\\Users\\yw\\Downloads\\归档\\zxing-android\\src\\main\\res\\layout-ldpi\\capture.xml"
+    },
+    {
+        "merged": "D:\\yw\\workspace\\git\\pigeonhole\\zxing-android\\build\\intermediates\\res\\merged\\debug\\layout-ldpi-v4\\capture.xml",
+        "source": "D:\\yw\\workspace\\git\\pigeonhole\\zxing-android\\src\\main\\res\\layout-ldpi\\capture.xml"
     }
 ]

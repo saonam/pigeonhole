@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Users/yw/Downloads/归档/zxing-android/build/intermediates/res/merged/release/drawable-xhdpi-v4/launcher_icon.png",
-        "source": "/Users/yw/Downloads/归档/zxing-android/src/main/res/drawable-xhdpi/launcher_icon.png"
+        "merged": "D:\\yw\\workspace\\git\\pigeonhole\\zxing-android\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\launcher_icon.png",
+        "source": "D:\\yw\\workspace\\git\\pigeonhole\\zxing-android\\src\\main\\res\\drawable-xhdpi\\launcher_icon.png"
+    },
+    {
+        "merged": "D:\\Users\\yw\\Downloads\\归档\\zxing-android\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\launcher_icon.png",
+        "source": "D:\\Users\\yw\\Downloads\\归档\\zxing-android\\src\\main\\res\\drawable-xhdpi\\launcher_icon.png"
     }
 ]

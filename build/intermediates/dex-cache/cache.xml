@@ -3,498 +3,498 @@
 
     <item
         is-multidex="true"
-        jar="/Users/yw/.android/build-cache/b545dda6f0bfda9a84f59a3a632389c00efae1dc/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="10cb5baac0766efec4ba1e998159e422fbfbf1e5">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4a28db718da6440c767ea7ea0f97a2f4379223eb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/.android/build-cache/47ee9413c059331b4ab1ca411d016d42966ea035/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bdb61b1f39ecf833fefa1a1fbd9bda8e63781f1d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/Downloads/归档/app/libs/Volley.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="77faa9ffd189160d1e22c58fdf5eed0a9a08b816">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/2/Volley_bf8f8fba0ebdfdcc90990b5037d93f5ef0e0b49a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/.android/build-cache/e762f5fa9817668341a3f75004954ade7481a32b/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fd6d4d749b1d55a798f91b7b6efc25e9e04058bd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/.android/build-cache/9645f33327a2c4de05dea2e910fc10d74382fcf4/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_15ef4ccbc58f84c363689281a384302350ede4c4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/.android/build-cache/eb5843545e0761601e6572fe4a2b55fa0634b4c3/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7bff6727c7cc1ae7f4c5fdbe3c573f52e7fe88e9">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_112ddaa3393325c65f9545d90f4a2adb581fafcf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/.android/build-cache/3f53c23ffc2ae61e62198399745b1362c51953bc/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b5229cb13edaba8c4fb698f2e15c51a1c65b9eb3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-4.3.6_8869b2ff86101e7c09dfef24ea83294952d5fb78/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/Downloads/归档/beacon/build/intermediates/bundles/default/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="70b3367efeaddf2c2bde24f004df60861c162d24">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/4/classes_548127fa8d9aabd9babb17956d27aeea36185b5d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.9_7d9a6066432903e841579f8431e736c3fb1c7c38/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/Downloads/归档/app/libs/AMap_Location_V3.5.0_20170731.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a02816310bcf897ef35496950110a65b495574a7">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/2/AMap_Location_V3.5.0_20170731_8d38821098ef3b426d25414a073b68e6f27158bd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/Downloads/归档/app/libs/VuforiaUnityPlayer.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="95f5205a17a7546c265d4a27d1e6f8be7b6f3f03">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/2/VuforiaUnityPlayer_9ab60bb10dccea2f435ce153d3ceaa7270704292/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/Downloads/归档/app/libs/jpush-android-3.0.8.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c90213171bb7b8fd7ea5071a924aa4355589177f">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/2/jpush-android-3.0.8_394ff79bf76b7936600ff2e0602afd5afb9f4956/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/.android/build-cache/b69ed27e27f37892b19b18be62a3a02f3bc0288b/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="31b95b317cf6507f76b0b54b9525a3a135cb12d6">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a6653f1518c548b42243a50d7e999964932db82d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_a273a4a7066d33794fc2731541bdfd8425d9f132/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_3326378921e41a420eaec15bdba9068e57cdb6ac/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/Downloads/归档/app/libs/jcore-android-1.1.6.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d68147a2495acffea57266427a8b76a1e99baea8">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/2/jcore-android-1.1.6_95b387f80211e64f0d5450e9331088c4ad49ca10/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/.android/build-cache/efc97c642e1857425c4779016b7e73c5ef762385/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_167b4dc3f9dcbf1a15f36f16e0ed93624f11f596/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/Downloads/归档/app/libs/zip_file.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="fe0441c30da4e90870837d130dd470eccce4e1fb">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/2/zip_file_d9feef8f0e99668509cbb93f7f548fdb90599e66/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/.android/build-cache/e52de2972751f4197e8ad3b8ae14e6fdf59f7da0/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_94d070228ea52cf7971115ddd351dd04cdc10d0c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/.gradle/caches/modules-2/files-2.1/xiaofei.library/concurrent-utils/0.1.4/b274fc259a64479371b79d147d80881483dc9101/concurrent-utils-0.1.4.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b274fc259a64479371b79d147d80881483dc9101">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/concurrent-utils-0.1.4_bd980a4d7a860fbadb0fdf1374668968dfda7a0e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_7bdeb05386591df2415740154b63cfb70acec2cc/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/.android/build-cache/8af4bdd78c150165cf31632b2ae9e55911d758f5/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e19d56dbca4f9ca103e2d276b00f5d589990adae/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/.android/build-cache/0574a108bd43ad024347aeca2a163ed6cd659d46/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a0bdf70123d26dd83d8462d602b3a83a41934cf6">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_631bb6f1c984795794d94bb1904d3b9a958f012f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/Downloads/归档/app/libs/Android_Map3D_SDK_V5.3.0_20170815.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8e1bcab49134edfa6f74440488dfff14460d3a12">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/2/Android_Map3D_SDK_V5.3.0_20170815_7024e4aa1fea3d505214ae77efe5c65333353ff5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-math3/3.6.1/e4ba98f1d4b3c80ec46392f25e094a6a2e58fcbf/commons-math3-3.6.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e4ba98f1d4b3c80ec46392f25e094a6a2e58fcbf">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-math3-3.6.1_8cae3b436ee1d529649fbf7c91bbce73fd5b294d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/.android/build-cache/a18f1ddc2257f2eaf14a680a9992bae6e9acc423/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d9f58e509a3ff5b601c11ab5ec588c96f9eb82b2">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7673483d483a7e25705536710df770cc88ad86e3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/Downloads/归档/app/libs/Vuforia.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="be3db5d282d7094986c342631085ca4d84c02603">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/2/Vuforia_78dc08e6d46f3b828ba6b003ef4f03c81faed847/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/Downloads/归档/app/libs/EasyMovieTexture.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="37267a31ca7f0d83de7123da3d20f6f16517879e">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/2/EasyMovieTexture_7e81b608363f2bbd21478511e8944e0b548aaa14/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/.android/build-cache/197097a9b22031d520b54338a1aa40d5b4b7bbe6/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f7f7928417720ab0f89805af11f6c354603382cd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_3dc87704440344a072a3bcfe5ee2286f02755d2e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.5/686c608d1805b6d4d425ec4459e88164ffc85870/gson-2.5.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.5_0d22675549860e6cf1869f7591905f7c5ca4751c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/Downloads/归档/app/libs/AVProVideo.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f48fb1734c1e54c7932a9ed1c02c855e3b9f54eb">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/2/AVProVideo_9a065e726318444f8cbc40e698cc1ea537ff6ee8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/Downloads/归档/app/libs/GyroDroid.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e3991c994ca190f1e53d078e1804ada4bc1b6e16">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/2/GyroDroid_556000fdf7f5335dfe8615bbe3da1ebbfc3ee844/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.1.0/908e18674f895e3e1fa8f4a954b8c637a23d2801/core-3.1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="908e18674f895e3e1fa8f4a954b8c637a23d2801">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.1.0_de496519cfa604b55d2d46528ba794fb1180bccd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/.android/build-cache/7bd3bc253432c7553f6331a4daf5f28b409ca229/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f8c06e7fd507aff148bc071a68acf8971c937228/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/.android/build-cache/57db738029892511d274b6d2fbbee3494c2ef588/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_92dccef7d9e13b73e0542b7c34e20b713bcb33ee/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/Downloads/归档/zxing-android/build/intermediates/bundles/default/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0c6d59568d367c40b32f2bac6887e260619fb291">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/4/classes_9ef1e3ccedea0770836bf0f8692b9d9e486824df/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/.android/build-cache/e6ced74c149e512549ba1f51087ad00eebaf5499/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="20e6d443b368a3cbcfd9121e6f424708e772967e">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e8166567d6df91aa36731994093ceb99599858f2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/.android/build-cache/3a7a282009214a78df9981b79d1f6a5aadaf0d5a/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a13789ec9e884e49740bb970550fabcb340466c1">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dc8f02a7c3bd1602c7c2d053c39e3397ea828c4a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/Downloads/归档/app/libs/UniWebView.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="83a0ea1ff54914cc444473ce9a851f997015ff29">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/2/UniWebView_6b4c93ea37ba64b5ef9671dcf4e2be639153cdfb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/.android/build-cache/a11863d90346837e9c7e0005213457929280389d/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f3da801940221b852f3a3ee82bfe2a10d39e4ffa">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab8136c54cc741cec1e7b4e66f33aad614fd8844/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/.android/build-cache/3b10f1a42b69c4ccc585c4aff0ec3214b4236ebc/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a71fc571e017d031e4128649794171d3dea010c7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/.android/build-cache/5e7f5782a282c4d7dd2a227a92194b716b19917b/output/jars/classes.jar"
+        jar="C:\Users\dell\.android\build-cache\f0b21ed5d3add2d6e4acbcdc661af472c6dd9854\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2483b6fd27850a078d08616e888748c6179ac8ed/classes.dex" />
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae730ef99c2a858f7a80b9d02b13f1b953a889d3\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/yw/.android/build-cache/bd90a670de27a1dc1db933abe7ecb7ac3aff31bf/output/jars/classes.jar"
+        jar="C:\Users\dell\.android\build-cache\19bee4979d0222d6943617ad6e5bd5379f598314\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="9beab74ae4de5ca43a11d8568881e647580c8797">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d20986996d66f0d6e18d507642e053ee098ceb74/classes.dex" />
+        sha1="10cb5baac0766efec4ba1e998159e422fbfbf1e5">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d3a7b6f4962e5ddb32df6168478da36287c2bba9\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/yw/.android/build-cache/be9e7fbaf30ed2d818f08866ef06a072eaac67ca/output/jars/classes.jar"
+        jar="D:\android_studio\gradle\gradle-3.3\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="e317cec5da0014115ad4a12185450b0904e8aca6">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_08b296e9705f301cd659647be64777edb7d91e11/classes.dex" />
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-async-http-1.4.9_269a48553b94f29eff1943f1d31ed6cc272f3985\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/yw/Downloads/归档/app/libs/AMap_Search_V5.3.1_20170817.jar"
+        jar="D:\android_studio\gradle\gradle-3.3\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="b4e1d1d93f686f1a6efe4e49d798b27801d4d301">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/2/AMap_Search_V5.3.1_20170817_6208fa53a70adb2f3f48ad87bafa9c632c4d3146/classes.dex" />
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-4.3.6_2bb7f4a13e2f2c39feac63ea2b92f35daed68afb\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/yw/.android/build-cache/f7130f744b287701e6b251b14b914cc541602feb/output/jars/classes.jar"
+        jar="C:\Users\dell\.android\build-cache\648f4cbff0110b37ae80d183b39c52d2a56ee90b\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_da3c68d8d32cf0ebbb5dd1cf1afe007c17b6e31c/classes.dex" />
+        sha1="a0bdf70123d26dd83d8462d602b3a83a41934cf6">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bed3038599fbf61009b560914f31e75b8a698775\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/yw/.android/build-cache/9ab11b53bedc657b28f0dbf3710de953b71bce36/output/jars/classes.jar"
+        jar="D:\MyWork\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_3af483d5ff631b27ccbf1a737864d6b23755f866\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\a5eae0cc2670d713146d5de0e8664cac409b551e\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_65cb0009779316822e52a23711d64b8489fc1ee1/classes.dex" />
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5b4f0609c5d576b340329153b07e16a5481065f8\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/yw/.android/build-cache/e5668832f169ba05fdb43241bc16fedaa6b063d0/output/jars/classes.jar"
+        jar="C:\Users\dell\.android\build-cache\284f018c59c9f6c4631833c776b81a675e10558e\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="2dec265c29091442e762774e43957d916efa018a">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ed1a50c7cbf94739c4a367d198f3f593a317466/classes.dex" />
+        sha1="9beab74ae4de5ca43a11d8568881e647580c8797">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a0883d6ad81b75f9e0d15d22a6d7f408fae0bb1c\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/yw/Downloads/归档/app/libs/unity-classes.jar"
+        jar="D:\yw\workspace\git\pigeonhole\app\libs\Vuforia.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="b541b7c350268dea27bb061eb4df5424e5aed649">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/2/unity-classes_ccf65691c05fa098c02e846fcf6e311e6c7438fa/classes.dex" />
+        sha1="be3db5d282d7094986c342631085ca4d84c02603">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\2\Vuforia_f01c194883ebf717c61fac90debcea19599ddf32\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/yw/.android/build-cache/c1669c4a105ac6ecab5c1a927dcf4d68fdd557b7/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3f08c13d05973e8f86224a66be92a663005539a5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/eventbus-3.0.0_f5566fb0fe3d58996c532eea1427383c29e397f5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yw/.android/build-cache/7cf1471598e52dbf980fd00bc7c9625682a6f6a2/output/jars/classes.jar"
+        jar="C:\Users\dell\.android\build-cache\421927bb5974b928496c86a31e38a2d51c933eeb\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="883eb9c3bde63636505e42fc6cad790f4739b0d3">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c5286924a91f96f3e2295ce8c0a05e45b63f9308/classes.dex" />
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc89b70ec429722d70883f8df4fe932d554fb22f\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/yw/.android/build-cache/5c9d18cc808c4b01a9e672a24f97cf9f094fef4e/output/jars/classes.jar"
+        jar="D:\android_studio\gradle\gradle-3.3\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_2657a2b583223ccce989a38f3e30a2811fb2dacc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\dbfd25bb82d2cd3d6c8e46b7f3e3d4dedd85b2e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9f62870ed2f2b88f2f4649bcc3b6b111dc024bbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\dc38a63ebfde5928ed33f2897904f1aac1d4e519\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="31b95b317cf6507f76b0b54b9525a3a135cb12d6">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a367a967ce502d641482c654f4a646fc9517d137\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\d55016bfb3b677327738e4a3412d6e2bbe7ed82e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a13789ec9e884e49740bb970550fabcb340466c1">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a7218777cadcef2a246657a60f56d59d43c88db0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\e76c600d61dd3b9d76c133d1c7f528abaec296b6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2be146145b5bbf39f4be5e88660a0748e4016250\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\yw\workspace\git\pigeonhole\app\libs\AVProVideo.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f48fb1734c1e54c7932a9ed1c02c855e3b9f54eb">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\2\AVProVideo_cba772980e2208e6f808840922f238e51915e2db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\yw\workspace\git\pigeonhole\app\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b541b7c350268dea27bb061eb4df5424e5aed649">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\2\unity-classes_e6744dcc0f11042b0f6c420590fb9b41e34f65b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_studio\gradle\gradle-3.3\caches\modules-2\files-2.1\com.google.zxing\core\3.1.0\908e18674f895e3e1fa8f4a954b8c637a23d2801\core-3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="908e18674f895e3e1fa8f4a954b8c637a23d2801">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.1.0_1e61a682d42c4a2b5c7cfd44170a4b9b10c5d686\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\yw\workspace\git\pigeonhole\app\libs\AMap_Search_V5.3.1_20170817.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4e1d1d93f686f1a6efe4e49d798b27801d4d301">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap_Search_V5.3.1_20170817_4743c85c0111a707ee78884b27d10ef4311d9887\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_studio\gradle\gradle-3.3\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_dbda699ddb4f2e638c94e5062b7b1bc837db6287\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\yw\workspace\git\pigeonhole\app\libs\jcore-android-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d68147a2495acffea57266427a8b76a1e99baea8">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\2\jcore-android-1.1.6_b513ce4182fb2cc8ea17f1ed6829d73eb6896812\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_studio\gradle\gradle-3.3\caches\modules-2\files-2.1\xiaofei.library\concurrent-utils\0.1.4\b274fc259a64479371b79d147d80881483dc9101\concurrent-utils-0.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b274fc259a64479371b79d147d80881483dc9101">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\concurrent-utils-0.1.4_b5017393cc07e4d4725902938a8d2d231fa4ccbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MyWork\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_37f94cd7edd3ef75ec7c88ea581b5130e25160b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\cf8995628e43ec2d2197c420c3dc5abe96e4b450\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="20e6d443b368a3cbcfd9121e6f424708e772967e">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a6012fbb51045909c3a02125c2ad471f86ac299c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\yw\workspace\git\pigeonhole\app\libs\Volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="77faa9ffd189160d1e22c58fdf5eed0a9a08b816">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\2\Volley_8f578b416d249abc91f4709656972581bb257d24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_studio\gradle\gradle-3.3\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.5_90e7e850fa6527be2ea4322883b1a52d2011e76f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\3cac231efafd9882fa244390a5db3f75965aee62\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bff6727c7cc1ae7f4c5fdbe3c573f52e7fe88e9">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_45383a44a2804b342f1730bb13896f0b427984ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\d6b3572a74a8f52bb7a521f827eee579c91715ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_024822247d8c33b941399e6150fd3f945b55129a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\yw\workspace\git\pigeonhole\app\libs\AMap_Location_V3.5.0_20170731.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a02816310bcf897ef35496950110a65b495574a7">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap_Location_V3.5.0_20170731_134093ed77ce7320ef24cf4ce2eab634808b51e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\8568105e7f60017bd4e2dfa94994548c6db9b2ec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d9f58e509a3ff5b601c11ab5ec588c96f9eb82b2">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_48c62e301521f20a39b06a2a4eea295fefb3a330\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\yw\workspace\git\pigeonhole\app\libs\Android_Map3D_SDK_V5.3.0_20170815.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e1bcab49134edfa6f74440488dfff14460d3a12">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\2\Android_Map3D_SDK_V5.3.0_20170815_9e2179c6418e8ee28a0d5413ed23b15df1a01d58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\350c638ec895272eb3aa84a0720c390cdbacc914\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_db9d9e6172eae94859650c61a45c37541b4b3e69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\91f42f5ce7f548bde28df487a86a3a4a5035d6b9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2dec265c29091442e762774e43957d916efa018a">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fcd1d5a6bbd9451771667df85cf0cf7eb35ee599\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_studio\gradle\gradle-3.3\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-3.0.0_d5ad02c4b2d230b1557473fa5e6799ed69236d91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\yw\workspace\git\pigeonhole\beacon\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d9edc1dcb64b320a65356e76979f9951b9e43d36">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_f668f8228dbe3d797e6220bda559694bcb49c7a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\cce6cf3ecb5d88b04c6019b9b74f2e65d4bd6311\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_559b35e255a96113853b56726c5a4e01e04a9dfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\b0c886cbf723e5cb47b146eb8322aaa89653f2a5\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="8e325e9ba5c23d635d0cfaa76c349fca83101f8a">
-        <dex dex="/Users/yw/Downloads/归档/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_447285ba30e50ef7b5eebd8e53bc5dc60fd8ea9a/classes.dex" />
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ee9468f02f8987746b74e5081ded0567020da82d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\yw\workspace\git\pigeonhole\app\libs\EasyMovieTexture.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="37267a31ca7f0d83de7123da3d20f6f16517879e">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\2\EasyMovieTexture_23e24358fb994fed0b605c05fc30c94ab2ca12f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\84522178700177f137c991184c451b91660bc910\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3da801940221b852f3a3ee82bfe2a10d39e4ffa">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2872956dff4e78d48aab1ee9002d12ce3ab7409a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\yw\workspace\git\pigeonhole\app\libs\jpush-android-3.0.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c90213171bb7b8fd7ea5071a924aa4355589177f">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\2\jpush-android-3.0.8_a0102fcfa4114231a5756516698b79e2a3172976\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\d049d2dfcd9a97fd356298ed2b1c484f286e1cf2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_94c2a8a7997789b25c81468114c989654f0903fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\6682826b9712134e9d0c2a4be86cea5fc0569e53\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e382fd4fe9e12a33c720c945410d3d9d770be90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\a66c4b0cc86489729cea003caeca84f793ca882e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a32ea98dbe2610a0b1b963c11536dd379559e57e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\4af66da69eb8cecd3204757577ce6ad89dcc0939\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a8d8bcc7af5b618912adfc8da3f2b0c1dea1eb3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\343960f3cbb404a3d898f35761990ab053e04413\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e317cec5da0014115ad4a12185450b0904e8aca6">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e8d43b1eb9e6a37eae11f1d38d438b02a9059fea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\6f3589b95d62f0b613f7a4b5d26195f84ea79872\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_472c9a292981987f6a4bda286249d50acd4f1a32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\aa2f772a0ec5f4a4d3d820bdfc879ba16da1af3e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f2dc7b09b33fb04f37f283149470e6f3674882d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\yw\workspace\git\pigeonhole\app\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95f5205a17a7546c265d4a27d1e6f8be7b6f3f03">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\2\VuforiaUnityPlayer_65b299e0a16727a64b817bbbaa4755b20c9a0cea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\yw\workspace\git\pigeonhole\app\libs\zip_file.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fe0441c30da4e90870837d130dd470eccce4e1fb">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\2\zip_file_b1fd14f8db5c3a8435bd13ada83746ebb6090d08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\yw\workspace\git\pigeonhole\app\libs\UniWebView.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="83a0ea1ff54914cc444473ce9a851f997015ff29">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\2\UniWebView_f87c856488843a4de693035bee1587c514cad528\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\50351edc463afd72528c4b58d5586ea3dc985c03\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_56d7106b8c2f989cf31d4fb873d4e3a11282d2d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\yw\workspace\git\pigeonhole\zxing-android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a491d2f23a802fa7aaba27bc31c2c0b452f6440f">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\4\classes_ead387573e546e1cabec96ea917e7f19b56efd43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\yw\workspace\git\pigeonhole\app\libs\GyroDroid.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e3991c994ca190f1e53d078e1804ada4bc1b6e16">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\2\GyroDroid_f158d11c470bd10387fb1fe2cf2f5e27668ea2b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_studio\gradle\gradle-3.3\caches\modules-2\files-2.1\org.apache.commons\commons-math3\3.6.1\e4ba98f1d4b3c80ec46392f25e094a6a2e58fcbf\commons-math3-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4ba98f1d4b3c80ec46392f25e094a6a2e58fcbf">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-math3-3.6.1_60bea54f9895cc6682665d2af28f652b5a6c2088\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dell\.android\build-cache\5170b09a5c75be8ffae5a9876f95729a12c5c948\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\yw\workspace\git\pigeonhole\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_231ac4926bde01a18088bb90e8ab96a6e0a3618c\classes.dex" />
     </item>
 
 </items>

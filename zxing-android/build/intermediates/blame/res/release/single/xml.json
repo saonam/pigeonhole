@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Users/yw/Downloads/归档/zxing-android/build/intermediates/res/merged/release/xml/preferences.xml",
-        "source": "/Users/yw/Downloads/归档/zxing-android/src/main/res/xml/preferences.xml"
+        "merged": "D:\\Users\\yw\\Downloads\\归档\\zxing-android\\build\\intermediates\\res\\merged\\release\\xml\\preferences.xml",
+        "source": "D:\\Users\\yw\\Downloads\\归档\\zxing-android\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\yw\\workspace\\git\\pigeonhole\\zxing-android\\build\\intermediates\\res\\merged\\release\\xml\\preferences.xml",
+        "source": "D:\\yw\\workspace\\git\\pigeonhole\\zxing-android\\src\\main\\res\\xml\\preferences.xml"
     }
 ]

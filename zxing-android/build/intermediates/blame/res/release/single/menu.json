@@ -1,14 +1,26 @@
 [
     {
-        "merged": "/Users/yw/Downloads/归档/zxing-android/build/intermediates/res/merged/release/menu/encode.xml",
-        "source": "/Users/yw/Downloads/归档/zxing-android/src/main/res/menu/encode.xml"
+        "merged": "D:\\yw\\workspace\\git\\pigeonhole\\zxing-android\\build\\intermediates\\res\\merged\\release\\menu\\capture.xml",
+        "source": "D:\\yw\\workspace\\git\\pigeonhole\\zxing-android\\src\\main\\res\\menu\\capture.xml"
     },
     {
-        "merged": "/Users/yw/Downloads/归档/zxing-android/build/intermediates/res/merged/release/menu/capture.xml",
-        "source": "/Users/yw/Downloads/归档/zxing-android/src/main/res/menu/capture.xml"
+        "merged": "D:\\yw\\workspace\\git\\pigeonhole\\zxing-android\\build\\intermediates\\res\\merged\\release\\menu\\history.xml",
+        "source": "D:\\yw\\workspace\\git\\pigeonhole\\zxing-android\\src\\main\\res\\menu\\history.xml"
     },
     {
-        "merged": "/Users/yw/Downloads/归档/zxing-android/build/intermediates/res/merged/release/menu/history.xml",
-        "source": "/Users/yw/Downloads/归档/zxing-android/src/main/res/menu/history.xml"
+        "merged": "D:\\yw\\workspace\\git\\pigeonhole\\zxing-android\\build\\intermediates\\res\\merged\\release\\menu\\encode.xml",
+        "source": "D:\\yw\\workspace\\git\\pigeonhole\\zxing-android\\src\\main\\res\\menu\\encode.xml"
+    },
+    {
+        "merged": "D:\\Users\\yw\\Downloads\\归档\\zxing-android\\build\\intermediates\\res\\merged\\release\\menu\\encode.xml",
+        "source": "D:\\Users\\yw\\Downloads\\归档\\zxing-android\\src\\main\\res\\menu\\encode.xml"
+    },
+    {
+        "merged": "D:\\Users\\yw\\Downloads\\归档\\zxing-android\\build\\intermediates\\res\\merged\\release\\menu\\capture.xml",
+        "source": "D:\\Users\\yw\\Downloads\\归档\\zxing-android\\src\\main\\res\\menu\\capture.xml"
+    },
+    {
+        "merged": "D:\\Users\\yw\\Downloads\\归档\\zxing-android\\build\\intermediates\\res\\merged\\release\\menu\\history.xml",
+        "source": "D:\\Users\\yw\\Downloads\\归档\\zxing-android\\src\\main\\res\\menu\\history.xml"
     }
 ]

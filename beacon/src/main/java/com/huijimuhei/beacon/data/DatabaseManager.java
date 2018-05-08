@@ -1,19 +1,26 @@
 package com.huijimuhei.beacon.data;
 
 import android.content.Context;
+import android.content.res.AssetManager;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteException;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.os.Environment;
 
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.InputStream;
+
 /**
  * Copyright (C) 2016 Huijimuhe Technologies. All rights reserved.
  * Contact: 20903213@qq.com Zengweizhou
  */
 public class DatabaseManager extends SQLiteOpenHelper {
-    public static String DB_PATH = Environment.getExternalStorageDirectory() +  "/caotang/beacon.db";
-
+    public static String DB_PATH = Environment.getExternalStorageDirectory() + "/caotang/beacon.db";
+    public static String DB_BEACON = "beacon.db";
+    public static String DB_DEACON_PATH = Environment.getExternalStorageDirectory() + "/caotang/";
     private static DatabaseManager singleton = null;
     private SQLiteDatabase myDataBase;
     private final Context myContext;
@@ -59,6 +66,10 @@ public class DatabaseManager extends SQLiteOpenHelper {
 
     public void open() {
         String myPath = DB_PATH;
+        File file = myContext.getDatabasePath(myPath);
+        if (!file.exists()) {
+            loadDateBase();
+        }
         myDataBase = SQLiteDatabase.openDatabase(myPath, null, SQLiteDatabase.OPEN_READONLY);
     }
 
@@ -83,4 +94,26 @@ public class DatabaseManager extends SQLiteOpenHelper {
 
     }
 
+    public void loadDateBase() {
+        AssetManager assetManager = myContext.getAssets();
+        try {
+            InputStream inputStream = assetManager.open(DB_BEACON);
+            File filestr = new File(DB_DEACON_PATH);
+            filestr.mkdir();
+            File file = new File(filestr.getPath(), DB_BEACON);
+            file.createNewFile();
+
+            FileOutputStream fileOutputStream = new FileOutputStream(file);
+            byte[] bytes = new byte[1024];
+            int b = 0;
+            while ((b = inputStream.read(bytes)) > 0) {
+                fileOutputStream.write(bytes, 0, b);
+            }
+            fileOutputStream.flush();
+            fileOutputStream.close();
+            inputStream.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
 }

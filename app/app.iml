@@ -76,7 +76,6 @@
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/rs" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/shaders" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/build/.DS_Store" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/assets" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/blame" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/classes" />
@@ -85,6 +84,7 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/jniLibs" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/manifests" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/multi-dex" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/pre-dexed" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/res" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/rs" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/shaders" />
@@ -95,58 +95,58 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 25 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="com.android.support:multidex-1.0.1" level="project" />
-    <orderEntry type="library" exported="" name="xiaofei.library:hermes-0.7.0" level="project" />
-    <orderEntry type="library" exported="" name="tv.danmaku.ijk.media:ijkplayer-armv7a-0.6.0" level="project" />
-    <orderEntry type="library" exported="" name="com.android.support:support-core-ui-25.3.1" level="project" />
-    <orderEntry type="library" exported="" name="com.android.support:support-compat-25.3.1" level="project" />
-    <orderEntry type="library" exported="" name="__local_jars__:/Users/yw/Downloads/归档/app/libs/UniWebView.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" exported="" name="__local_jars__:/Users/yw/Downloads/归档/app/libs/Vuforia.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" exported="" name="xiaofei.library:hermes-eventbus-0.3.0" level="project" />
-    <orderEntry type="library" exported="" name="__local_jars__:/Users/yw/Downloads/归档/app/libs/Android_Map3D_SDK_V5.3.0_20170815.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" exported="" name="__local_jars__:/Users/yw/Downloads/归档/app/libs/VuforiaUnityPlayer.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" exported="" name="jp.wasabeef:recyclerview-animators-2.2.3" level="project" />
-    <orderEntry type="library" exported="" name="com.android.support.constraint:constraint-layout-solver:1.0.2@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.android.support:support-core-utils-25.3.1" level="project" />
-    <orderEntry type="library" exported="" name="com.android.support.constraint:constraint-layout-1.0.2" level="project" />
-    <orderEntry type="library" exported="" name="com.android.support:support-v4-25.3.1" level="project" />
-    <orderEntry type="library" exported="" name="__local_jars__:/Users/yw/Downloads/归档/app/libs/jpush-android-3.0.8.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.android.support:support-media-compat-25.3.1" level="project" />
-    <orderEntry type="library" exported="" name="__local_jars__:/Users/yw/Downloads/归档/app/libs/jcore-android-1.1.6.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.liulishuo.filedownloader:library-1.6.3" level="project" />
-    <orderEntry type="library" exported="" name="__local_jars__:/Users/yw/Downloads/归档/app/libs/EasyMovieTexture.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.android.support:transition-25.3.1" level="project" />
-    <orderEntry type="library" exported="" name="com.android.support:design-25.3.1" level="project" />
-    <orderEntry type="library" exported="" name="__local_jars__:/Users/yw/Downloads/归档/app/libs/unity-classes.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.google.code.gson:gson:2.5@jar" level="project" />
-    <orderEntry type="library" exported="" name="me.zhouzhuo.zzhorizontalprogressbar:zz-horizontal-progressbar-1.0.0" level="project" />
-    <orderEntry type="library" exported="" name="com.marshalchen.ultimaterecyclerview:library-0.7.2" level="project" />
-    <orderEntry type="library" exported="" name="in.srain.cube:ultra-ptr-1.0.11" level="project" />
-    <orderEntry type="library" exported="" name="org.greenrobot:eventbus:3.0.0@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.android.support:support-vector-drawable-25.3.1" level="project" />
-    <orderEntry type="library" exported="" name="pl.droidsonroids.gif:android-gif-drawable-1.2.7" level="project" />
-    <orderEntry type="library" exported="" name="xiaofei.library:concurrent-utils:0.1.4@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.android.support:recyclerview-v7-25.3.1" level="project" />
-    <orderEntry type="library" exported="" name="__local_jars__:/Users/yw/Downloads/归档/app/libs/AMap_Search_V5.3.1_20170817.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.android.support:support-v13-25.2.0" level="project" />
-    <orderEntry type="library" exported="" name="__local_jars__:/Users/yw/Downloads/归档/app/libs/AMap_Location_V3.5.0_20170731.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" exported="" name="de.hdodenhof:circleimageview-2.1.0" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="com.android.support:multidex-instrumentation-1.0.1" level="project" />
-    <orderEntry type="library" exported="" name="tv.danmaku.ijk.media:ijkplayer-java-0.6.0" level="project" />
-    <orderEntry type="library" exported="" name="__local_jars__:/Users/yw/Downloads/归档/app/libs/zip_file.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" exported="" name="net.grandcentrix.tray:tray-0.12.0" level="project" />
-    <orderEntry type="library" exported="" name="cz.msebera.android:httpclient:4.3.6@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.jakewharton:butterknife:7.0.1@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.android.support:support-fragment-25.3.1" level="project" />
-    <orderEntry type="library" exported="" name="com.android.support:animated-vector-drawable-25.3.1" level="project" />
-    <orderEntry type="library" exported="" name="__local_jars__:/Users/yw/Downloads/归档/app/libs/GyroDroid.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.android.support:appcompat-v7-25.3.1" level="project" />
-    <orderEntry type="library" exported="" name="__local_jars__:/Users/yw/Downloads/归档/app/libs/Volley.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" exported="" name="__local_jars__:/Users/yw/Downloads/归档/app/libs/AVProVideo.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.orhanobut:logger-2.1.1" level="project" />
-    <orderEntry type="library" exported="" name="com.loopj.android:android-async-http:1.4.9@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.android.support:support-annotations:25.3.1@jar" level="project" />
-    <orderEntry type="library" exported="" name="com.github.bumptech.glide:glide:3.7.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support.constraint:constraint-layout-solver:1.0.2@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: tv.danmaku.ijk.media:ijkplayer-armv7a-0.6.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:support-annotations:25.3.1@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: jp.wasabeef:recyclerview-animators-2.2.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:support-media-compat-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.jakewharton:butterknife:7.0.1@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.google.code.gson:gson:2.5@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.liulishuo.filedownloader:library-1.6.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:multidex-1.0.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:D.\yw\workspace\git\pigeonhole\app\libs\unity-classes.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: cz.msebera.android:httpclient:4.3.6@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:D.\yw\workspace\git\pigeonhole\app\libs\EasyMovieTexture.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: me.zhouzhuo.zzhorizontalprogressbar:zz-horizontal-progressbar-1.0.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:D.\yw\workspace\git\pigeonhole\app\libs\Volley.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:support-v13-25.2.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:support-v4-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:support-core-ui-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:D.\yw\workspace\git\pigeonhole\app\libs\Vuforia.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: com.android.support:multidex-instrumentation-1.0.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:D.\yw\workspace\git\pigeonhole\app\libs\UniWebView.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.greenrobot:eventbus:3.0.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.marshalchen.ultimaterecyclerview:library-0.7.2" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: xiaofei.library:concurrent-utils:0.1.4@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:D.\yw\workspace\git\pigeonhole\app\libs\jpush-android-3.0.8.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:recyclerview-v7-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:D.\yw\workspace\git\pigeonhole\app\libs\Android_Map3D_SDK_V5.3.0_20170815.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:design-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.github.bumptech.glide:glide:3.7.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:support-vector-drawable-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:support-core-utils-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.loopj.android:android-async-http:1.4.9@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:appcompat-v7-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:D.\yw\workspace\git\pigeonhole\app\libs\jcore-android-1.1.6.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:support-fragment-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:D.\yw\workspace\git\pigeonhole\app\libs\VuforiaUnityPlayer.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: pl.droidsonroids.gif:android-gif-drawable-1.2.7" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:D.\yw\workspace\git\pigeonhole\app\libs\AMap_Search_V5.3.1_20170817.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: de.hdodenhof:circleimageview-2.1.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:D.\yw\workspace\git\pigeonhole\app\libs\AMap_Location_V3.5.0_20170731.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: xiaofei.library:hermes-eventbus-0.3.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:D.\yw\workspace\git\pigeonhole\app\libs\zip_file.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:animated-vector-drawable-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:support-compat-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support:transition-25.3.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: xiaofei.library:hermes-0.7.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: tv.danmaku.ijk.media:ijkplayer-java-0.6.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: net.grandcentrix.tray:tray-0.12.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:D.\yw\workspace\git\pigeonhole\app\libs\AVProVideo.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:D.\yw\workspace\git\pigeonhole\app\libs\GyroDroid.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.android.support.constraint:constraint-layout-1.0.2" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: in.srain.cube:ultra-ptr-1.0.11" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.orhanobut:logger-2.1.1" level="project" />
     <orderEntry type="module" module-name="zxing-android" exported="" />
     <orderEntry type="module" module-name="beacon" exported="" />
   </component>
